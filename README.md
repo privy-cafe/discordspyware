@@ -38,6 +38,10 @@ Link: https://feedback.discordapp.com/forums/326712-discord-dream-land/suggestio
 proof that it record your process and act just like a malware if not worse.
  That the process logging features of Discord are now being recorded on Discord's servers as a form of telemetry (spyware), and removes speculation about why this feature exists. It is clarified by Discord that this spyware feature is used for advertising to it's users.This means that Discord is recording the programs you have open to build a statistical model of what programs you might buy/lisence in the future. They are also scanning shared memory segment, grabbing your dom, cookies and history.
 https://spyware.neocities.org/images/discord_process_logging.png
+https://www.youtube.com/watch?v=J3IXh2KechM&pbjreload=10
+https://www.youtube.com/watch?v=J3IXh2KechM
+https://www.youtube.com/watch?v=tNgcDvkx_H0
+https://www.youtube.com/watch?v=uwIk1UJ_AAs
 
 
 also https://www.reddit.com/r/discordapp/comments/7tlt6h/discord_mods_spying_on_dms/
@@ -50,8 +54,8 @@ https://www.reddit.com/r/discordapp/comments/7tk3sx/do_discord_mods_sometimes_ea
 some videos
 The Discord Incident
 https://www.youtube.com/watch?v=QBgsteKp4I8
-
-discord is spyware 
+https://www.youtube.com/watch?v=Kg9uhitYsTc
+discord is spyware
 https://www.youtube.com/watch?v=Kg9uhitYsTc
 
 https://hooktube.com/watch?v=QN_6AZT92pU
