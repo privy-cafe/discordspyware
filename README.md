@@ -4,40 +4,19 @@ Discord is a voice, video, and text chat app designed specifically for gamers.
 San Francisco, California, United States
 Discord is funded by 16 investors. FirstMark and Greenoaks Capital are the most recent investors.
 founded by the team behind OpenFeint - a networking platform that united mobile games with achievements and social functionality - Discord has raised over $50M from top VCs like Greylock, Benchmark, Accel, and Tencent.
-Categories 
-Apps, Gaming, Mobile, Video Chat
-Headquarters Regions 
-San Francisco Bay Area, West Coast, Western US
-Founded Date 
-May 1, 2012
-Founders 
-Jason Citron
-Operating Status 
-Active
-Funding Status 
-Late Stage Venture
-Last Funding Type 
-Series F
-Number of Employees 
-101-250
-Legal Name 
-Discord, Inc.
-Hub Tags 
-Unicorn
-IPO Status 
-Private
-Company Type 
-For Profit
-Website 
-discordapp.com/
-Facebook 
-View on Facebook
-Twitter 
-View on Twitter
-Contact Email 
-jason@hammerandchisel.com
-Phone Number 
-888-594-0085
+Categories | Apps, Gaming, Mobile, Video Chat
+Headquarters Regions | San Francisco Bay Area, West Coast, Western US
+Founded Date | May 1, 2012
+Founders | Jason Citron
+Operating Status Active
+Funding Status Late Stage Venture
+Last Funding Type Series F
+Number of Employees 101-250
+Legal Name Discord, Inc.
+Hub Tags Unicorn
+Website | discordapp.com/
+Contact Email | jason@hammerandchisel.com
+Phone Number | 888-594-0085
 
 Discord receives government requests. No plans on adding E2E Encryption any time soon.
 https://spyware.neocities.org/images/discord%20government%20requests.png
@@ -67,6 +46,7 @@ https://www.reddit.com/r/discordapp/comments/4bn5o1/the_only_reason_i_found_to_s
 
 https://www.reddit.com/r/discordapp/comments/7tk3sx/do_discord_mods_sometimes_eavesdrop/dtdwtue/
 
+ Sources: Initial post about Furry ‘cub’ porn that started this debacle: https://www.reddit.com/r/discordapp/c... Secondary post about Furry ‘cub’ porn that added fuel to the fire: https://www.reddit.com/r/discordapp/c... Official response by u/Karrdian (Head of Discord Trust and Safety) to that post: https://www.reddit.com/r/discordapp/c... Reddit post about discord’s lack of professionalism: https://www.reddit.com/r/discordapp/c... WSJ Article about Discord’s worth as of April 19th, 2018: https://www.wsj.com/articles/discord-... Discord statistics page stating how many users are on Discord as of August 3rd, 2018: https://expandedramblings.com/index.p... Wayback machine Archives of the above reddit posts and the Staff reply: https://web.archive.org/web/201902041... https://web.archive.org/web/201902041... https://web.archive.org/web/201902041... Mr.Tempestilence’s thread about Discord on twitter: https://twitter.com/MrTempestilence/s... @Chewwwy3’s situation regarding zoophiles: https://twitter.com/Chewwwy3/status/1... @TechGuyReloaded tweet about Discord bot devs: https://twitter.com/TechGuyReloaded/s... Nick Monroe Twitter Thread: https://twitter.com/nickmon1112/statu... Allthefoxes allegations sources: Allthefoxes previous furaffinity: https://www.furaffinity.net/user/vinc... Allthefoxes F.list: https://www.f-list.net/c/vince%20locktip Allthefoxes F.list Screenshots in case of account deletion: https://cdn.discordapp.com/attachment... https://cdn.discordapp.com/attachment... https://cdn.discordapp.com/attachment... Chris Wolfie F.list: https://www.f-list.net/c/chris%20wolfie Chris Wolfie F.list screenshot archive in case of deletion or change: https://cdn.discordapp.com/attachment... https://cdn.discordapp.com/attachment... https://cdn.discordapp.com/attachment... https://cdn.discordapp.com/attachment... Regua’s “Mr. Malfoy case” Screenshots and evidence: Screenshots of pedo activity from Mr. Malfoy: https://cdn.discordapp.com/attachment... https://cdn.discordapp.com/attachment... Next to no response from Discord except automated DM’s and a single reply on twitter about said DM: https://twitter.com/Regua_/status/100... https://twitter.com/discordapp/status... https://twitter.com/Regua_/status/100... Wayback Machine Archive of Discord’s response: https://web.archive.org/web/201902041...
 some videos
 The Discord Incident
 https://www.youtube.com/watch?v=QBgsteKp4I8
